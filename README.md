@@ -56,7 +56,7 @@ The strip can be placed in a notebook to create a physical record of moments ove
 
 ---
 
-#Interface
+# Interface
 
 The device uses a **four-position rotary dial** arranged like a compass.
         Foggy
@@ -64,7 +64,7 @@ The device uses a **four-position rotary dial** arranged like a compass.
 Clear ←  ●  → Steady
           ↓
         Blank
-##Interaction Flow
+# Interaction Flow
 
 1. Rotate dial to desired state
 2. Press the dial
@@ -75,7 +75,7 @@ This interaction is designed to take **less than 3 seconds**.
 
 ---
 
-#Output Example
+# Output Example
 The printed strip captures:
 
 - Date
@@ -87,7 +87,7 @@ Two strips fit neatly on one notebook page.
 
 ---
 
-#Hardware Concept
+# Hardware Concept
 
 Initial prototype components include:
 
@@ -102,7 +102,7 @@ The goal is to create a **compact handheld device** that feels intentional and t
 
 ---
 
-#Design Philosophy
+# Design Philosophy
 
 The HERE device follows a few core principles:
 
@@ -120,7 +120,7 @@ Printed moments create a tangible record.
 
 ---
 
-#Use Cases
+# Use Cases
 
 Examples of moments someone might capture:
 
@@ -135,7 +135,7 @@ Over time, the collection of strips becomes a **timeline of presence**.
 
 ---
 
-#Status
+# Status
 
 Current stage: **Concept + Early Prototype**
 
@@ -148,7 +148,7 @@ Work in progress:
 
 ---
 
-#Future Ideas
+# Future Ideas
 
 Potential future features include:
 
@@ -160,7 +160,7 @@ Potential future features include:
 
 ---
 
-#Why Build This
+# Why Build This
 
 The HERE device is inspired by a simple idea:
 
@@ -170,7 +170,7 @@ This device creates a simple ritual to pause, acknowledge the moment, and save i
 
 ---
 
-#Author
+# Author
 
 Leah Sharp
 
