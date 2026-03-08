@@ -56,6 +56,124 @@ The strip can be placed in a notebook to create a physical record of moments ove
 
 ---
 
-##Interface
+#Interface
 
 The device uses a **four-position rotary dial** arranged like a compass.
+        Foggy
+          ↑
+Clear ←  ●  → Steady
+          ↓
+        Blank
+##Interaction Flow
+
+1. Rotate dial to desired state
+2. Press the dial
+3. Device prints a memory strip
+4. Add strip to notebook or memory log
+
+This interaction is designed to take **less than 3 seconds**.
+
+---
+
+#Output Example
+The printed strip captures:
+
+- Date
+- Time
+- Emotional state
+- Optional short note
+
+Two strips fit neatly on one notebook page.
+
+---
+
+#Hardware Concept
+
+Initial prototype components include:
+
+- ESP32 microcontroller
+- thermal printer module
+- rotary encoder with push button
+- rechargeable battery
+- internal paper roll
+- sand-textured enclosure
+
+The goal is to create a **compact handheld device** that feels intentional and tactile.
+
+---
+
+#Design Philosophy
+
+The HERE device follows a few core principles:
+
+**Low friction**  
+Capture a moment in seconds.
+
+**Tactile interaction**  
+Physical input encourages presence.
+
+**Minimal interface**  
+No screen, no notifications.
+
+**Physical memory**  
+Printed moments create a tangible record.
+
+---
+
+#Use Cases
+
+Examples of moments someone might capture:
+
+- A meaningful conversation
+- A quiet morning
+- A family memory
+- A creative breakthrough
+- A moment of clarity
+- A pause during a busy day
+
+Over time, the collection of strips becomes a **timeline of presence**.
+
+---
+
+#Status
+
+Current stage: **Concept + Early Prototype**
+
+Work in progress:
+
+- hardware prototype
+- enclosure design
+- printing workflow
+- notebook integration
+
+---
+
+#Future Ideas
+
+Potential future features include:
+
+- companion notebook system
+- optional mobile sync
+- customizable emotional states
+- analytics of emotional patterns
+- collaborative memory logging
+
+---
+
+#Why Build This
+
+The HERE device is inspired by a simple idea:
+
+Small moments are easy to miss, but they are often the ones that matter most.
+
+This device creates a simple ritual to pause, acknowledge the moment, and save it.
+
+---
+
+#Author
+
+Leah Sharp
+
+Creator documenting systems, tools, and ideas that help people stay present and build meaningful lives.
+
+---
