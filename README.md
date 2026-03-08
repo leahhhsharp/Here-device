@@ -2,15 +2,13 @@
 A physical device designed to help people capture and stay present in meaningful moments.
 # Interface
 
+## HERE Device
+
 ![Dial Interface](images/dial-interface.png)
 
-# Device Prototype
+![Device Prototype](images/device-render.png)
 
-![Device Render](images/device-render.png)
-
-# Memory Output
-
-![Memory Strip](images/memory-strip.png)
+![Memory Output](images/memory-strip.png)
 
 # Overview
 
